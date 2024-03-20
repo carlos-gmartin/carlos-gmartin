@@ -1,6 +1,6 @@
 👋 Hello, I'm Carlos G Martin Guillen!
 
-🚀 Software Enginner | 🌐 Open Source Enthusiast | 💡 Lifelong Learner
+🚀 Software Enginner | 🌐 Open Source Enthusiast
 
 👨‍💻 I'm passionate about creating innovative software solutions that solve real-world problems. My expertise spans a wide range of technologies, from front-end development using HTML, CSS, and JavaScript to back-end development with Python, Node.js, and more.
 
