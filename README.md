@@ -1,14 +1,27 @@
-👋 Hello, I'm Carlos G Martin Guillen!
+👋 Hello, I'm Carlos G Martin Guillen! 🚀 Software Enginner | 🌐 Open Source Enthusiast
 
-🚀 Software Enginner | 🌐 Open Source Enthusiast
+I'm a passionate software engineer based in Norwich, UK, with a keen interest in creating innovative solutions to real-world problems. My expertise spans a wide range of programming languages and technologies, from C++ and Python to JavaScript.
 
-👨‍💻 I'm passionate about creating innovative software solutions that solve real-world problems. My expertise spans a wide range of technologies, from front-end development using HTML, CSS, and JavaScript to back-end development with Python, Node.js, and more.
+## Skills
+- **Languages:** C++, Python, JavaScript
+- **Technologies:** TensorFlow, openCV, SQL, Git, Node.js, PostgreSQL, HTML, React, TailwindCSS
+- **Tools:** MS Office, Git, GitHub
 
-🌱 I believe in the power of open source and actively contribute to various projects. I'm committed to giving back to the developer community that has taught me so much.
+## Personal Projects
+### The AffiliateMarketingTech (2023 - Paused)
+- Established an online freelance platform providing a comprehensive range of technical services and solutions.
+- **Tech Stack:** React, TailwindCSS, PHP, MySQL, Full-Stack, Node.js
 
-📚 Lifelong learning is at the core of my values. I'm always eager to explore new technologies and stay up-to-date with the latest industry trends.
+### Financial Truth Guard (2023 - Ongoing)
+- Conceptualized and developed a machine learning project aimed at detecting fake news within the banking and trading sectors.
+- Prioritized optimizing time complexity for efficient processing.
+- **Tech Stack:** Python, TensorFlow, NLP, Keras, Django
 
-🌟 Let's connect and collaborate! Feel free to reach out to me for exciting projects, coding challenges, or just to chat about tech and innovation.
+### Computer Vision Project: Drone Detection and No-Fly Zone Enforcement (2024 - Ongoing)
+- Led the development of a computer vision project focused on real-time drone detection and enforcement of no-fly zones.
+- Trained on a dataset of 55,000 images, developed algorithms for drone detection and establishment of no-fly zones.
+- Implemented automated enforcement commands upon drone detection in designated no-fly zones.
+- **Tech Stack:** Python, TensorFlow, openCV
 
 📫 You can reach me via email at [cm43833@gmail.com].
 
