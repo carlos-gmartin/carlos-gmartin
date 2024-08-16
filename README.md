@@ -1,9 +1,9 @@
 👋 Hello, I'm Carlos G Martin Guillen! 🚀 Software Engineer
 
-I'm a passionate software engineer based in Norwich, UK, with a keen interest in creating innovative solutions to real-world problems. My expertise spans a wide range of programming languages and technologies, from C++ and Python to JavaScript.
+I'm a passionate computer science graduate based in the UK, with a keen interest in creating innovative solutions to real-world problems. My expertise spans a wide range of programming languages and technologies, from Python to JavaScript and even C++.
 
 ## Skills
-- **Languages:** C++, Python, JavaScript
+- **Languages:** Python, JavaScript, C++/Java
 - **Technologies:** TensorFlow, openCV, SQL, Git, Node.js, PostgreSQL, HTML, React, TailwindCSS
 - **Tools:** MS Office, Git, GitHub
 
