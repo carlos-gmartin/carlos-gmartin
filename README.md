@@ -1,4 +1,4 @@
-👋 Hello, I'm Carlos G Martin Guillen! 🚀 Software Engineer | Data Engineer
+👋 Hello, I'm Carlos G Martin Guillen! 🚀 | Data Engineer
 
 I'm a passionate computer science graduate based in the UK, with a keen interest in creating innovative solutions to real-world problems. My expertise spans a wide range of programming languages and technologies, from Python to JavaScript and even C++.
 
