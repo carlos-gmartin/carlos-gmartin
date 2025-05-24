@@ -1,4 +1,5 @@
-# I am Carlos G Martin and this is my github. Click around to look at some of my random projects
+I am Carlos G Martin and this is my github.
+Click around to look at some of my random projects
 ### Backend & Data Engineer | Python | JavaScript | Cloud | Machine Learning
 
 I’m a UK-based Computer Science graduate passionate about building scalable backend systems, data pipelines, and machine learning applications. I enjoy designing clean, maintainable code and deploying robust solutions to real-world problems.
