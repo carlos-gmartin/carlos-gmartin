@@ -1,28 +1,49 @@
-👋 Hello, I'm Carlos G Martin Guillen! 🚀 | Data Engineer
+# I am Carlos G Martin and this is my github. Click around to look at some of my random projects
+### Backend & Data Engineer | Python | JavaScript | Cloud | Machine Learning
 
-I'm a passionate computer science graduate based in the UK, with a keen interest in creating innovative solutions to real-world problems. My expertise spans a wide range of programming languages and technologies, from Python to JavaScript and even C++.
+I’m a UK-based Computer Science graduate passionate about building scalable backend systems, data pipelines, and machine learning applications. I enjoy designing clean, maintainable code and deploying robust solutions to real-world problems.
 
-## Skills
-- **Languages:** Python, JavaScript, C++/Java
-- **Technologies:** TensorFlow, openCV, SQL, Git, Node.js, PostgreSQL, HTML, React, TailwindCSS
-- **Tools:** MS Office, Git, GitHub
+---
 
-## Personal Projects
-### The AffiliateMarketingTech (2023 - Paused)
-- Established an online freelance platform providing a comprehensive range of technical services and solutions.
-- **Tech Stack:** React, TailwindCSS, PHP, MySQL, Full-Stack, Node.js
+## Skills & Technologies
 
-### Financial Truth Guard (2023 - Ongoing)
-- Conceptualized and developed a machine learning project aimed at detecting fake news within the banking and trading sectors.
-- Prioritized optimizing time complexity for efficient processing.
-- **Tech Stack:** Python, TensorFlow, NLP, Keras, Django
+- **Languages:** Python, JavaScript (Node.js, React), Java, SQL (PostgreSQL, MySQL)  
+- **Backend Frameworks:** FastAPI, Laravel, Django  
+- **Databases:** PostgreSQL, MySQL  
+- **Cloud & Infrastructure:** AWS (EC2, RDS, CloudFront), Docker  
+- **Monitoring & Tools:** Sentry, Git, GitHub, VS Code  
+- **Other:** Agile collaboration, documentation, client relations
 
-### Computer Vision Project: Drone Detection and No-Fly Zone Enforcement (2024 - Ongoing)
-- Led the development of a computer vision project focused on real-time drone detection and enforcement of no-fly zones.
-- Trained on a dataset of 55,000 images, developed algorithms for drone detection and establishment of no-fly zones.
-- Implemented automated enforcement commands upon drone detection in designated no-fly zones.
-- **Tech Stack:** Python, TensorFlow, openCV
+---
 
+## Projects
+
+### Financial Truth Guard  
+A machine learning project detecting fake financial news using Python, TensorFlow, Keras, and Django.  
+- Focused on NLP preprocessing (tokenization, lemmatization) and model evaluation (precision/recall/F1).  
+
+### Drone Detection & No-Fly Zone Enforcement  
+Developed a hybrid system using computer vision (YOLO) and audio classification (LSTM + MFCC) for real-time drone detection.  
+- Trained on 55,000+ images, deployed a live monitoring interface, and implemented automated enforcement commands.
+
+### SaaS Backend Modernization (Propeller Studios)  
+Modernized a legacy SaaS platform’s backend with Laravel, FastAPI, and MySQL.  
+- Applied clean architecture and modular design, built RESTful APIs, containerized with Docker, and integrated error tracking with Sentry.
+
+### Gloton Trade Management Network  
+Built and maintained a React frontend hosted on AWS with backend document verification and supplier/client database centralization.
+
+---
+
+## Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/carlos-g-martin-guillen-932401169/)  
+- [Email](mailto:cm43833@gmail.com)  
+- [GitHub](https://github.com/carlos-gmartin)  
+
+---
+
+## Stats
 [![](https://raw.githubusercontent.com/carlos-gmartin/carlos-gmartin/master/profile-summary-card-output/cobalt/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/carlos-gmartin/carlos-gmartin/master/profile-summary-card-output/cobalt/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/carlos-gmartin/carlos-gmartin/master/profile-summary-card-output/cobalt/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/carlos-gmartin/carlos-gmartin/master/profile-summary-card-output/cobalt/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/carlos-gmartin/carlos-gmartin/master/profile-summary-card-output/cobalt/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
